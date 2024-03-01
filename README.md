@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![] (https://github.com/TuThanhHuy2124/project1/blob/main/src/assets/project1.gif)
+![](https://github.com/TuThanhHuy2124/project1/blob/main/src/assets/project1.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
