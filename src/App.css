@@ -16,10 +16,27 @@ body {
 
 h1, h2 {
   color: #86BBD8;
+  font-family: "Pixelify Sans", Arial, Helvetica, sans-serif;
 }
 
-p {
-  color: #2F4858;
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h2 a{
+  color: #86BBD8;
+}
+
+h2 a:hover{
+  color: white;
+}
+
+h2 a:active{
+  color: #9EE493;
 }
 
 .App {
